@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/asyas/PycharmProjectsManim/FirstProject/media/videos/main/720p30/partial_movie_files/Morbius/568351521_4203713543_223132457.mp4'
+file 'file:C:/Users/asyas/PycharmProjectsManim/FirstProject/media/videos/main/720p30/partial_movie_files/Morbius/2662567360_418711336_2633813456.mp4'
+file 'file:C:/Users/asyas/PycharmProjectsManim/FirstProject/media/videos/main/720p30/partial_movie_files/Morbius/3233609459_3503346753_2277723309.mp4'
